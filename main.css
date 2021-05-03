@@ -1,0 +1,178 @@
+body{
+    width: 100;
+    height: 100;
+    margin: auto 0;
+}
+
+.fundo{
+    width: 100%;
+    height: 1080px;
+    background-image: url(img/mapa1.png);
+    background-repeat: no-repeat;
+}
+
+.topo{
+    width: 100%;
+    height: 55px;
+
+}
+
+.logo{
+    position: relative;
+    width: 60%;
+    left: 80px;
+    padding: 20px;
+}
+
+.meio{
+    width: 100%;
+    height: 380px;
+}
+
+.img-01{
+    position: relative;
+    top: 70px;
+    width: 35%;
+    float: right;
+}
+
+.a1{
+    position: absolute;
+    width: 520px;
+    height: 230px;
+    top: 130px;
+    left: 99px;
+    background-color: #5e295aef;
+    border: 5px solid black; border-radius: 29px;
+}
+
+.text-01{
+    position: absolute;
+    top: 128px;
+    left: 114px;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+    line-height: 45px;
+}
+
+#primeiro{
+    color: #ffffff;
+    position: relative;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 28px;
+    font-weight: 300;
+}
+
+.quadrado-01{
+    width: 445px;
+    height: 420px;
+    background-color: #5e295aef;
+    float: left;
+}
+
+.text-02{
+    font-family: 'Montserrat', sans-serif;
+    font-size:medium;
+    text-align: center;
+    color: #ffffff;
+}
+
+#segundo{
+    position: relative;
+    top: 3px;
+}
+
+.colorido{
+    color: #e6ba2d;
+}
+
+.simpsons{
+    position: relative;
+    left: 55px;
+}
+
+.text-02-1{
+    font-family: 'Montserrat', sans-serif;
+    font-size:medium;
+    text-align: center;
+    color: #ffffff;
+}
+
+.colorido-1{
+    color: #2dd02d;
+}
+
+#terceiro{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+#terceiro-1{
+    position: relative;
+    bottom: 4px;
+}
+
+.quadrado-02{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 445px;
+    height: 420px;
+    background-color: #5e295aef;
+    float: left;
+}
+
+.desenho{
+    position: relative;
+    left: 55px;
+}
+
+.text-03{
+    font-family: 'Montserrat', sans-serif;
+    font-size:medium;
+    text-align: center;
+    color: #ffffff;
+}
+
+.text-03-1{
+    position: relative;
+    top: 52px;
+    font-family: 'Montserrat', sans-serif;
+    font-size:medium;
+    text-align: center;
+    color: #ffffff;
+}
+
+.quadrado-03{
+    width: 445px;
+    height: 420px;
+    background-color: #5e295aef;
+    float: left;
+}
+
+.logo-1{
+    margin-left: 90px;
+}
+
+.text-04{
+    font-family: 'Montserrat', sans-serif;
+    font-size:medium;
+    text-align: center;
+    color: #ffffff;
+}
+
+.text-04-1{
+    margin-top: 92px;
+    font-family: 'Montserrat', sans-serif;
+    font-size:medium;
+    text-align: center;
+    color: #ffffff;
+}
+
+.icones ul a{
+    position: relative;
+    left: 430px;
+    top: 70px;
+}
